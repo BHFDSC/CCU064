@@ -12,7 +12,7 @@ The results of this study will provide essential information needed to guide the
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
-> Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
+* [CCU064_01: Incidence of gestational diabetes and disparities in adverse pregnancy outcomes – findings from a contemporary cohort of 2.7 million births](https://github.com/BHFDSC/CCU064_01).
 
 ## Project approval
 
